@@ -1,6 +1,6 @@
 # New streamlit that can read pdf and summarise findings of pdf
 # (Before running, install the following)
-# pip install streamlit pypdf2 langchain python-dotenv faiss-cpu openai huggingface_hub
+# pip install streamlit pypdf2 langchain python-dotenv faiss-cpu openai huggingface_hub tiktoken
 # pip install InstructionEmbedding -- very heavy packages that are not necessary if you use openai
 
 # import 
